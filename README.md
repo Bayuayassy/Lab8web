@@ -102,4 +102,4 @@ header('location: index.php');
 
 https://github.com/Bayuayassy/Lab8web/assets/115678251/627139ed-48b4-46ce-ac00-afae4a8421ab
 
-## Finish, Terima kasih
+## Terima kasih
